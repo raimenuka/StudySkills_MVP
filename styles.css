@@ -56,9 +56,9 @@ li a:hover:not(.active),
 
 .mainlogo
   {
-    width=100px;
-    height=100px;
-    display:none;
+    width:100px;
+    height:100px;
+    display:flex;
   }
 
 .search
