@@ -1,7 +1,7 @@
 body
 {
 	background:#FBFBF8;
-  
+
 }
 
 .topnav {
@@ -25,7 +25,7 @@ body
   margin:0;
   padding:0;
   display: inline;
-  
+
 }
 
 .nav li {
@@ -67,7 +67,7 @@ li a:hover:not(.active),
     right: 20px;
     text-align: left;
     float: right;
-    
+
 }
 
 input[type='search'] {
@@ -76,7 +76,7 @@ input[type='search'] {
     background-color:#ffffff;
     -webkit-transition: width 0.4s ease-in-out;
     transition: width 0.4s ease-in-out;
-    padding-left:18px; 
+    padding-left:18px;
 }
 
 .title {
@@ -145,7 +145,7 @@ h2 {
 	font:24px;
     text-align:left;
     margin-left:auto;
-    
+
 }
 p{
 	text-align:center;
@@ -155,14 +155,19 @@ p{
     margin-left:5px;
     margin-right:5px;
 }
+.container{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
 .cards{
-	display: inline-block;
-	width:30%;
-	height:20%;
-    border-bottom-left-radius:5px;
-    border-bottom-right-radius:5px;
-    border-top-left-radius:5px;
-    border-top-right-radius:5px;
+	display: flex;
+	flex-direction: column;
+	/* flex-grow: 1; */
+	width:300px;
+	/* height:30; */
+	border-radius: 5px;
 	margin:2%;
 	box-shadow: 2px 2px 2px 2px black;
 	box-sizing: border-box;
@@ -189,7 +194,7 @@ p{
     position: relative;
     width:100%;
     height:auto;
-    
+
 }
 .image img{
 	width:80%;
@@ -223,7 +228,7 @@ p{
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-   
+
 }
 
 .text h4{
@@ -278,7 +283,5 @@ p{
 	text-align:right;
     height:auto;
     width: auto;
-    
+
 }
-    
-    
