@@ -57,11 +57,11 @@ header nav ul li a.active
   }
   header nav{
     position: absolute;
-    width: 50%;
+    width:30%;
     height:auto;
     background: #333;
     top:50px;
-    left: -100%;
+    left: -50%;
     transition: 0.5s;
   }
   header nav.active{
