@@ -57,7 +57,7 @@ header nav ul li a.active
   }
   header nav{
     position: absolute;
-    width:30%;
+    width:40%;
     height:auto;
     background:rgba(0,0,0, .8);
     top:50px;
