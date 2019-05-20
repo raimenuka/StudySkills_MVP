@@ -140,8 +140,8 @@ p{
 	text-align: center;
 	background-color: #000080;
 	box-sizing: content-box;
-    border-top-right-radius:5px;
-    border-top-left-radius:5px;
+  border-top-right-radius:5px;
+  border-top-left-radius:5px;
 	padding: 5px;
 }
 .container{
