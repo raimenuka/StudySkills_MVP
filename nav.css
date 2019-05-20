@@ -73,6 +73,8 @@ header nav ul li a.active
   }
   header nav ul li a{
     border-bottom: 1px solid rgba(0,0,0,.2);
-    color:#fff
+    color:#fff;
+    height:30px;
+    line-height:30px;
   }
 }
