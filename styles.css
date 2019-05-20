@@ -5,54 +5,6 @@ body
 
 }
 
-.topnav {
- background-color:#006400;
- height:200%;
- width:200%;
- margin-left:0px;
- margin-right:0px;
- margin-bottom: 5px;
- margin-top: 10px;
- padding-left:25px;
- padding-right:25px;
-
-
-}
-.nav{
-    padding-top: 10px;
-}
-.nav ul {
-  list-style-type:none;
-  margin:0;
-  padding:0;
-  display: inline;
-
-}
-
-.nav li {
-    font-size: 14px;
-    display: inline;
-    margin-left: 0px;
-    margin-right: 0px;
-    padding-right: 6px;
-    padding-left:10px;
-    float: inherit;
-}
-
-.nav li a {
-  display: inline;
-  float: center;
-  color: #fff;
-  padding: 0px;
-  text-decoration: none;
-  text-align: center;
-}
-
-li a:hover:not(.active),
-.nav li.active a {
-  background-color:#A9A9A9;
-  background-size: contain;
-}
 
 .mainlogo
   {
@@ -123,7 +75,7 @@ ul, ol {
 	margin-bottom: 10px;
 	margin-left: 80px;
 	float: none;
-    background-color:#ffffff;
+  background-color:#ffffff;
 }
 
 .contentwrap{
