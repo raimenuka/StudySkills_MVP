@@ -16,7 +16,7 @@ header{
 }
 
 header nav{
-  float: right;
+  float:left;
 }
 header nav ul{
   margin: 0;
