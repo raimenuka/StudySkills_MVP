@@ -203,7 +203,7 @@ p{
 	font-weight: bold;
 	color:white;
 	margin-left:30%;
-    margin-bottom:10%;
+  margin-bottom:10%;
 	cursor: pointer;
 	}
 
@@ -226,6 +226,6 @@ p{
 	color:white;
 	text-align:center;
 	height:200%;
-  width:150%;
+  width:100%;
 
 }
