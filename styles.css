@@ -115,9 +115,9 @@ ul, ol {
 }
 
 
-.header {
+.top {
 	width: 80%;
-    height:50%;
+  height:50%;
 	margin-top: 5px;
 	margin-right: 10px;
 	margin-bottom: 10px;
@@ -232,15 +232,6 @@ p{
     transform: translate(-50%, -50%);
 
 }
-
-.text h4{
-    color:#ff0;
-    text-align:center;
-	font-size:14px;
-	word-spacing:2px;
-    margin-top:20%;
-}
-
 
 .text p{
     color: white;
