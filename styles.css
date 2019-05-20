@@ -165,8 +165,8 @@ p{
     bottom:0;
     left:0;
     right:0;
-    height:auto;
-    width:auto;
+		width:300px;
+		height:266px;
     opacity:0;
     transition: .6s ease;
     background-color:rgba(0,0,0, .8);
