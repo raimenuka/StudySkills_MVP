@@ -30,7 +30,7 @@ header nav ul li a{
   height: 50px;
   line-height: 50px;
   padding: 0 20px;
-  color: rgba(0,0,0, .8);
+  color:#fff;
   text-decoration: none;
   display: block;
 }
