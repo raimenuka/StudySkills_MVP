@@ -186,10 +186,10 @@ p{
 }
 
 .text p{
-    color: white;
+    color:  #ff0;
     text-align:left;
-	font-size:14px;
-	word-spacing:2px;
+	  font-size:14px;
+	  word-spacing:2px;
     margin-top: 0px;
 }
 
