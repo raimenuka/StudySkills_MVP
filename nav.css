@@ -3,6 +3,7 @@ body
   margin:0;
   padding:0;
   font-family: sans-serif;
+  font-size: 14px;
 }
 header{
   position: absolute;
@@ -31,8 +32,6 @@ header nav ul li a{
   line-height: 30px;
   padding: 0 20px;
   color:#fff;
-  font-family: sans-serif;
-  font-size: 14px;
   text-decoration: none;
   display: block;
 }
