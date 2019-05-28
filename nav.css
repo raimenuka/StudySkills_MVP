@@ -3,11 +3,10 @@ body
   margin:0;
   padding:0;
   font-family: sans-serif;
-  font-size: 14px;
 }
 header{
   position: absolute;
-  top: 0;
+  top: 10px;
   left: 0;
   padding: 0 10px;
   background: #006400;
@@ -29,9 +28,10 @@ header nav ul li{
 }
 header nav ul li a{
   height:auto;
-  line-height: 20px;
-  padding: 0 20px;
+  line-height:auto;
+  padding: 0 10px;
   color:#fff;
+  font-size: 18px;
   text-decoration: none;
   display: block;
 }
@@ -57,8 +57,8 @@ header nav ul li a.active
     display: block;
   }
   header nav{
-    position: absolute;
-    width:40%;
+    position:inherit;
+    width:auto;
     height:auto;
     background:rgba(0,0,0, .8);
     top:50px;
@@ -70,12 +70,13 @@ header nav ul li a.active
   }
   header nav ul{
     display: block;
-    text-align:center;
+    text-align:left;
   }
   header nav ul li a{
     border-bottom: 1px solid rgba(0,0,0,.2);
     color:#fff;
+    font-size: 12px;
     height:30px;
-    line-height:30px;
+    line-height:20px;
   }
 }
