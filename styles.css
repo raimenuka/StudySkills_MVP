@@ -2,6 +2,7 @@ body
 {
 	background:#FBFBF8;
 	margin: 0;
+	font-family: sans-serif;
 
 }
 
@@ -49,7 +50,7 @@ input[type='search'] {
 
 h1 {
 	color:white;
-	font:36px arial, helvetica;
+	font-size:28px;
     text-align: center;
     margin-top: 5px;
     margin-bottom: 5px;
@@ -59,7 +60,6 @@ h3{
 	text-align: center;
     color: white;
 	font-size: 18px;
-	font-family: sans-serif;
 }
 ul, ol {
 	font-size: 16px;
