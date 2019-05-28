@@ -2,11 +2,20 @@ body
 {
 	background:#FBFBF8;
 	margin: 0;
+	padding: 0;
 	font-family: sans-serif;
 
 }
-
-
+.top {
+	width: 80%;
+  height:50%;
+	margin-top:60px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 80px;
+	float: none;
+  background-color:#ffffff;
+}
 .mainlogo
   {
     width:100px;
@@ -17,8 +26,8 @@ body
 .search
 {
     margin-right: 50px;
-    margin-top: 20px;
-		margin-bottom:40px;
+    margin-top: 10px;
+		margin-bottom:20px;
     right: 20px;
     text-align: left;
     float: right;
@@ -40,8 +49,8 @@ input[type='search'] {
     width:100%;
     margin-left:0px;
     margin-right:0px;
-	margin-top:50px;
-	margin-bottom:5px;
+	  margin-top:50px;
+	  margin-bottom:5px;
     padding-top:0px;
     padding-bottom:0px;
     background-color:#851111;
@@ -51,9 +60,9 @@ input[type='search'] {
 h1 {
 	color:white;
 	font-size:28px;
-    text-align: center;
-    margin-top: 5px;
-    margin-bottom: 5px;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 h3{
@@ -64,18 +73,6 @@ h3{
 ul, ol {
 	font-size: 16px;
 	line-height:150%;
-}
-
-
-.top {
-	width: 80%;
-  height:50%;
-	margin-top: 50px;
-	margin-right: 10px;
-	margin-bottom: 10px;
-	margin-left: 80px;
-	float: none;
-  background-color:#ffffff;
 }
 
 .contentwrap{
@@ -106,8 +103,8 @@ p{
 	font-size:14px;
 	word-spacing:2px;
   float: left;
-    margin-left:5px;
-    margin-right:5px;
+  margin-left:5px;
+  margin-right:5px;
 }
 .container{
 	display: flex;
