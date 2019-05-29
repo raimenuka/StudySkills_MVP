@@ -12,7 +12,7 @@ body {
   line-height:auto;
   font-size: 18px;
   padding: 0 10px;
-  position: fixed;
+  position:absolute;
   top: 5px;
   left: 0;
   z-index: 10;
