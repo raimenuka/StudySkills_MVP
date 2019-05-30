@@ -31,7 +31,7 @@ body {
 .navbar ul li {
   display: inline-block;
 }
-.navbar nav.cdul li a {
+.navbar ul li a {
   display: block;
   text-align: center;
   width: 100%;
