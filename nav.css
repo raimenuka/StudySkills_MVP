@@ -11,7 +11,7 @@ body {
   height:auto;
   line-height:auto;
   font-size: 18px;
-  padding: 0 10px;
+  padding: 0 16px;
   position:absolute;
   top: 5px;
   left: 0;
@@ -27,7 +27,7 @@ body {
   list-style: none;
   height: auto;
   line-height: auto;
-  padding: 0 10px;
+  padding: 0 16px;
 }
 .navbar ul li {
   display: inline-block;
@@ -36,7 +36,7 @@ body {
   display: block;
   text-align: center;
   width: 100%;
-  padding: 0 10px;
+  padding: 0 16px;
 }
 .navbar ul li a:hover {
   background-color:#002366;
